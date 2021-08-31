@@ -6,6 +6,7 @@
 
 ![](1.png)
 ![](2.png)
+![](3.png)
 
 ## 2. The Ethereum address that you've used for your Layer 2 account (in text format).
 
